@@ -1,0 +1,7 @@
+pandas
+numpy
+netowrkx
+matplotlib
+searborn
+geopandas
+notebook
